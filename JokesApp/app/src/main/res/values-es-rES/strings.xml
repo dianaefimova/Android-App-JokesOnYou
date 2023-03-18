@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JokesApp</string>
+    <string name="get_a_new_one">Obtener uno nuevo</string>
+    <string name="programming">Programación</string>
+    <string name="spooky">Tenebroso</string>
+    <string name="back1">Vuelta</string>
+    <string name="back3">Vuelta</string>
+    <string name="back2">Vuelta</string>
+    <string name="joke1">brome1</string>
+    <string name="joke4">brome4</string>
+    <string name="joke5">brome5</string>
+    <string name="back4">Vuelta</string>
+    <string name="animals">Animales</string>
+    <string name="christmas">Navidad</string>
+    <string name="here_s_your_pun">Aquí está tu juego de palabras...</string>
+    <string name="here_s_your_joke">Aquí está tu broma...</string>
+    <string name="category">categoría</string>
+    <string name="random">Aleatorio</string>
+    <string name="choose_the_joke_category">Elige la categoría de broma</string>
+    <string name="jokes_on_you">Aplicación de bromas</string>
+    <string name="here_s_your_programming_joke">Aquí está tu broma de programación...</string>
+    <string name="here_s_your_spooky_joke">Aquí está tu broma espeluznante ...</string>
+    <string name="here_s_your_christmas_joke">Here\'s your Christmas joke...</string>
+    <string name="back6">Vuelta</string>
+    <string name="joke2">brome2</string>
+    <string name="joke3">brome3</string>
+    <string name="back5">Vuelta</string>
+</resources>

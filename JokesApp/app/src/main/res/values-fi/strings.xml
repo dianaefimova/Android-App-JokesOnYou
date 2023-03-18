@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JokesApp</string>
+    <string name="get_a_new_one">Uusi vitsi</string>
+    <string name="programming">Ohjelmointi</string>
+    <string name="spooky">Pelottava</string>
+    <string name="back1">Takaisin</string>
+    <string name="back3">Takaisin</string>
+    <string name="back2">Takaisin</string>
+    <string name="joke1">Vitsi1</string>
+    <string name="joke4">Vitsi4</string>
+    <string name="joke5">Vitsi5</string>
+    <string name="back4">Takaisin</string>
+    <string name="animals">Eläimet</string>
+    <string name="christmas">Joulu</string>
+    <string name="here_s_your_pun">Tässä vitsisi</string>
+    <string name="here_s_your_joke">Tässä on vitsisi ...</string>
+    <string name="category">Kategoria</string>
+    <string name="random">Satunnainen</string>
+    <string name="choose_the_joke_category">Valitse vitsikategoria</string>
+    <string name="jokes_on_you">Ähäkutti</string>
+    <string name="here_s_your_programming_joke">Tässä on ohjelmointivitsisi...</string>
+    <string name="here_s_your_spooky_joke">Tässä on pelottava vitsisi ...</string>
+    <string name="here_s_your_christmas_joke">Tässä on jouluvitsisi...</string>
+    <string name="back6">Takaisin</string>
+    <string name="joke2">Vitsi2</string>
+    <string name="joke3">Vitsi3</string>
+    <string name="back5">Takaisin</string>
+
+</resources>
